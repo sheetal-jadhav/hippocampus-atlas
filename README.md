@@ -2,6 +2,8 @@
 
 **An interactive atlas of the hippocampal formation: cells, layers, circuits, rhythms, function and disease, all in one page you can explore and experiment with.**
 
+### 🔗 [Open the live atlas →](https://sheetal-jadhav.github.io/hippocampus-atlas/)
+
 The atlas brings together anatomy, physiology, computation and clinical neuroscience of the hippocampus. Most views are live: you can inject current into model neurons, run a virtual slice experiment, break an attractor network or decode position from place cells. Every claim is tied to the primary literature.
 
 ## Views
@@ -22,10 +24,12 @@ The atlas brings together anatomy, physiology, computation and clinical neurosci
 
 ## Getting started
 
-The atlas is a single, self-contained HTML file. There is nothing to install or build:
+The easiest way is to use the [live version](https://sheetal-jadhav.github.io/hippocampus-atlas/).
+
+To run it locally: the atlas is a single, self-contained HTML file, so there is nothing to install or build.
 
 1. Download or clone this repository.
-2. Open the HTML file in any modern browser.
+2. Open `index.html` in any modern browser.
 
 All simulations run locally in the browser. An internet connection is only needed to load the fonts.
 
